@@ -1,0 +1,9 @@
+{
+    "display_name": "Hannacore",
+    "version": "2.0.0",
+    "author": "Senna",
+    "js": "index.js",
+    "css": "style.css",
+    "default_enabled": true,
+    "generate_interceptor": "hannacoreInterceptor"
+}
