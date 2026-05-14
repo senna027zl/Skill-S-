@@ -1,0 +1,12 @@
+/* Hannacore v2.0 */
+#hc-root input[type="text"],
+#hc-root input[type="password"] {
+    outline: none;
+}
+#hc-root input[type="text"]:focus,
+#hc-root input[type="password"]:focus {
+    border-color: #cba6f7 !important;
+}
+#hc-root button:hover {
+    opacity: 0.85;
+}
